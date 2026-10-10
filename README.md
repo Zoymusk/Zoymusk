@@ -37,24 +37,6 @@ Building software, AI agents, and useful products.
 
 Contributed to Apache Fineract Loan Origination, tenantlayer, lc4j-lens, CodeMonk, and other Java projects.
 
-## 🏆 Achievements
-
-- 🥇 Salesforce Agentblazer Champion 2026
-- 🥇 Salesforce Agentblazer Innovator 2026
-- ☁️ 50+ Salesforce Trailhead badges
-- 💻 25+ Google Developer badges
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zoymusk&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoymusk&layout=compact&hide_border=true&theme=transparent" />
-
-<img src="https://streak-stats.demolab.com?user=Zoymusk&hide_border=true&theme=transparent" />
-
-</div>
 
 ## 🤝 Connect With Me
 
