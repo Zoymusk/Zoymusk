@@ -35,7 +35,7 @@ Building software, AI agents, and useful products.
 
 ## 🌱 Open Source
 
-Contributed to Apache Fineract Loan Origination, tenantlayer, lc4j-lens, CodeMonk, and other Java projects.
+Contributed to Apache Fineract Loan Origination, tenantlayer, lc4j-lens, CodeMonk, and other Java projects. 
 
 
 ## 🤝 Connect With Me
