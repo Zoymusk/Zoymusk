@@ -17,7 +17,7 @@ Building software, AI agents, and useful products.
 - 💻 Internship experience in Java and Android development
 - 🤖 Interested in AI agents, backend systems, and SaaS
 - 🌱 Open-source contributor
-
+ 
 ## 🛠️ Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,react,nextjs,postgres,mysql,docker,androidstudio,firebase,gcp,git,github)
