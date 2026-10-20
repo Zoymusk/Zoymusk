@@ -11,7 +11,7 @@ Building software, AI agents, and useful products.
 
 </div>
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 
 - 🎓 Computer Science Engineering Graduate, 2026
 - 💻 Internship experience in Java and Android development
