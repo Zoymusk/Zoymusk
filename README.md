@@ -9,7 +9,7 @@ Building backend systems, AI agents, and useful products.
 
 ## 👩‍💻 About
 - 🎓 CSE graduate (2026)
-- 💼 Internships in Android (GenAI integration) and full-stack Java
+- 💼 Internships in Android (GenAI integration) and full-stack Java   
 - 🤖 Into AI agents, backend systems, and SaaS
 - 🌍 Open to remote roles
 
