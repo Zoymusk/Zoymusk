@@ -16,7 +16,7 @@ Building backend systems, AI agents, and useful products.
 ## 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,react,nextjs,postgres,mysql,docker,androidstudio,firebase,gcp,git,github)
 
-**AI:** Spring AI · RAG · Groq · Gemini · Deepgram
+**AI:** Spring AI · RAG · Groq · Gemini · Deepgram 
 
 ## 🚀 Featured Projects
 - 📚 [**Docs Assistant**](https://github.com/Zoymusk/docs-assistant): RAG Q&A over Spring Boot docs, with citations
