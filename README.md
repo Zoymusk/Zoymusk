@@ -15,6 +15,8 @@ I build AI agents, RAG systems, and backend tools that solve real problems.
 ### 🛠️ Stack
 ![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,react,nextjs,postgres,mysql,docker,firebase,gcp,git,github)
 
+**AI:** RAG · Spring AI · Groq · Gemini · Vector Search
+
 ### 📊 GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zoymusk&show_icons=true&hide_border=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zoymusk&hide_border=true&theme=transparent)
