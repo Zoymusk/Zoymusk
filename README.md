@@ -11,7 +11,6 @@ I build AI agents, RAG systems, and backend tools that solve real problems.
 - 🚀 [**Product Inventory**](https://github.com/Zoymusk/product-inventory-query-optimisation) — Cut search query time by **~98%** across 200K records.
 - 🤖 [**Portfolio Agent**](https://github.com/Zoymusk/portfolio-agent) — Turn resumes and GitHub profiles into deployed portfolios.
 - 🎙️ [**Vox**](https://github.com/Zoymusk/vox-voice-agent) — Voice AI agent with a [live demo](https://vox-voice-agent.web.app).
-- 📱 [**GramaKhata**](https://github.com/Zoymusk/GramaKhata-ADigitalSolutionforRuralAccountManagement) — Offline-first Android accounting for rural communities.
 
 ### 🛠️ Stack
 ![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,react,nextjs,postgres,mysql,docker,firebase,gcp,git,github)
