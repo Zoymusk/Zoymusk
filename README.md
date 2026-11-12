@@ -18,7 +18,6 @@ I build AI agents, RAG systems, and backend tools that solve real problems. Merg
 - [**lc4j-lens**](https://github.com/stlahxm/lc4j-lens) — Spring AI VectorStore adapter for LangChain4j; fixed a similarity-search threshold bug.
 - [**Apache Fineract Loan Origination**](https://github.com/apache/fineract-loan-origination) — OpenAPI/Swagger docs for 4 controllers (11 endpoints).
 - [**CodeMonk**](https://github.com/YeamimHossainSajid/CodeMonk) — Actuator config, ArchUnit architecture tests, event serialization tests.
-- [**Signetry/core**](https://github.com/Signetry/core) — Maven/Java service policy for a security policy registry.
 - [**tandem-transactional-outbox-kafka**](https://github.com/alirux/tandem-transactional-outbox-kafka) — Grafana alert rules for a Kafka outbox-relay demo.
 
 ### 🏆 Hackathons
